@@ -1,4 +1,4 @@
-# ODA by Policy Objectives — R Shiny App
+# OECD ODA by Policy Objectives — R Shiny App
 
 An interactive Shiny app for exploring ODA (Official Development Assistance) 
 data by policy objectives and markers.
