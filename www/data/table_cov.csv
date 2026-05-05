@@ -1,0 +1,386 @@
+﻿donor_name_e,variable,2023-2024,comment,policy_markers_names,marker,donor_name_text
+All DAC members,gender,96.75,"",Gender equality,gender,the DAC member average
+All DAC members,environment,96.37,"",Environment,environment,the DAC member average
+All DAC members,dig,93.14,"",DIG,dig,the DAC member average
+All DAC members,rmnch,91.48,"",RMNCH,rmnch,the DAC member average
+All DAC members,drr,85.87,"",DRR,drr,the DAC member average
+All DAC members,nutrition,73.28,"",Nutrition,nutrition,the DAC member average
+All DAC members,disability,51.25,"",Disability,disability,the DAC member average
+All DAC members,biodiversity,96.23,"",Biodiversity,biodiversity,the DAC member average
+All DAC members,climate_adaptation,97.28,"",Climate adaptation,climate_adaptation,the DAC member average
+All DAC members,climate_mitigation,97.21,"",Climate mitigation,climate_mitigation,the DAC member average
+All DAC members,desertification,64.39,"",Desertification,desertification,the DAC member average
+Austria,gender,99.95,"",Gender equality,gender,Austria
+Belgium,gender,75.45,"",Gender equality,gender,Belgium
+Denmark,gender,90.47,"",Gender equality,gender,Denmark
+France,gender,92.86,"",Gender equality,gender,France
+Germany,gender,94.35,"",Gender equality,gender,Germany
+Italy,gender,86.04,"",Gender equality,gender,Italy
+Netherlands,gender,100,"",Gender equality,gender,the Netherlands
+Norway,gender,100,"",Gender equality,gender,Norway
+Portugal,gender,99.31,"",Gender equality,gender,Portugal
+Sweden,gender,96.37,"",Gender equality,gender,Sweden
+Switzerland,gender,100,"",Gender equality,gender,Switzerland
+United Kingdom,gender,92.02,"",Gender equality,gender,the United Kingdom
+Finland,gender,88.45,"",Gender equality,gender,Finland
+Iceland,gender,100,"",Gender equality,gender,Iceland
+Ireland,gender,92.71,"",Gender equality,gender,Ireland
+Luxembourg,gender,100,"",Gender equality,gender,Luxembourg
+Greece,gender,100,"",Gender equality,gender,Greece
+Spain,gender,99.48,"",Gender equality,gender,Spain
+Slovenia,gender,89.65,"",Gender equality,gender,Slovenia
+Czechia,gender,97.83,"",Gender equality,gender,Czechia
+Slovak Republic,gender,99.97,"",Gender equality,gender,the Slovak Republic
+Hungary,gender,18.49,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Gender equality,gender,Hungary
+Poland,gender,62.53,"",Gender equality,gender,Poland
+Romania,gender,48.73,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Gender equality,gender,Romania
+Estonia,gender,91.58,"",Gender equality,gender,Estonia
+Latvia,gender,100,"",Gender equality,gender,Latvia
+Lithuania,gender,67.09,"",Gender equality,gender,Lithuania
+Canada,gender,99.92,"",Gender equality,gender,Canada
+United States,gender,100,"",Gender equality,gender,the United States
+Japan,gender,92.28,"",Gender equality,gender,Japan
+Korea,gender,98.87,"",Gender equality,gender,Korea
+Australia,gender,100,"",Gender equality,gender,Australia
+New Zealand,gender,100,"",Gender equality,gender,New Zealand
+EU Institutions,gender,100,"",Gender equality,gender,the EU Institutions
+Austria,environment,99.97,"",Environment,environment,Austria
+Belgium,environment,71.7,"",Environment,environment,Belgium
+Denmark,environment,89.88,"",Environment,environment,Denmark
+France,environment,88.07,"",Environment,environment,France
+Germany,environment,93.93,"",Environment,environment,Germany
+Italy,environment,85.76,"",Environment,environment,Italy
+Netherlands,environment,100,"",Environment,environment,the Netherlands
+Norway,environment,100,"",Environment,environment,Norway
+Portugal,environment,99.31,"",Environment,environment,Portugal
+Sweden,environment,95.78,"",Environment,environment,Sweden
+Switzerland,environment,100,"",Environment,environment,Switzerland
+United Kingdom,environment,81.3,"",Environment,environment,the United Kingdom
+Finland,environment,94.17,"",Environment,environment,Finland
+Iceland,environment,100,"",Environment,environment,Iceland
+Ireland,environment,92.18,"",Environment,environment,Ireland
+Luxembourg,environment,100,"",Environment,environment,Luxembourg
+Greece,environment,100,"",Environment,environment,Greece
+Spain,environment,99.48,"",Environment,environment,Spain
+Slovenia,environment,89.86,"",Environment,environment,Slovenia
+Czechia,environment,97.64,"",Environment,environment,Czechia
+Slovak Republic,environment,99.71,"",Environment,environment,the Slovak Republic
+Hungary,environment,22.03,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Environment,environment,Hungary
+Poland,environment,66.03,"",Environment,environment,Poland
+Romania,environment,48.85,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Environment,environment,Romania
+Estonia,environment,91.49,"",Environment,environment,Estonia
+Latvia,environment,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Environment,environment,Latvia
+Lithuania,environment,66.41,"",Environment,environment,Lithuania
+Canada,environment,99.72,"",Environment,environment,Canada
+United States,environment,100,"",Environment,environment,the United States
+Japan,environment,95.99,"",Environment,environment,Japan
+Korea,environment,99.27,"",Environment,environment,Korea
+Australia,environment,100,"",Environment,environment,Australia
+New Zealand,environment,100,"",Environment,environment,New Zealand
+EU Institutions,environment,100,"",Environment,environment,the EU Institutions
+Austria,dig,99.97,"",DIG,dig,Austria
+Belgium,dig,35.95,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DIG,dig,Belgium
+Denmark,dig,91.68,"",DIG,dig,Denmark
+France,dig,87.06,"",DIG,dig,France
+Germany,dig,90.64,"",DIG,dig,Germany
+Italy,dig,86.51,"",DIG,dig,Italy
+Netherlands,dig,100,"",DIG,dig,the Netherlands
+Norway,dig,100,"",DIG,dig,Norway
+Portugal,dig,99.31,"",DIG,dig,Portugal
+Sweden,dig,95.97,"",DIG,dig,Sweden
+Switzerland,dig,100,"",DIG,dig,Switzerland
+United Kingdom,dig,38.61,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DIG,dig,the United Kingdom
+Finland,dig,87.38,"",DIG,dig,Finland
+Iceland,dig,99.65,"",DIG,dig,Iceland
+Ireland,dig,92.63,"",DIG,dig,Ireland
+Luxembourg,dig,100,"",DIG,dig,Luxembourg
+Greece,dig,100,"",DIG,dig,Greece
+Spain,dig,99.48,"",DIG,dig,Spain
+Slovenia,dig,93.42,"",DIG,dig,Slovenia
+Czechia,dig,97.74,"",DIG,dig,Czechia
+Slovak Republic,dig,99.97,"",DIG,dig,the Slovak Republic
+Hungary,dig,57.49,"",DIG,dig,Hungary
+Poland,dig,67.16,"",DIG,dig,Poland
+Romania,dig,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DIG,dig,Romania
+Estonia,dig,92.66,"",DIG,dig,Estonia
+Latvia,dig,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DIG,dig,Latvia
+Lithuania,dig,88.28,"",DIG,dig,Lithuania
+Canada,dig,98.26,"",DIG,dig,Canada
+United States,dig,100,"",DIG,dig,the United States
+Japan,dig,91.6,"",DIG,dig,Japan
+Korea,dig,98.87,"",DIG,dig,Korea
+Australia,dig,100,"",DIG,dig,Australia
+New Zealand,dig,100,"",DIG,dig,New Zealand
+EU Institutions,dig,100,"",DIG,dig,the EU Institutions
+Austria,rmnch,99.73,"",RMNCH,rmnch,Austria
+Belgium,rmnch,61.36,"",RMNCH,rmnch,Belgium
+Denmark,rmnch,89.17,"",RMNCH,rmnch,Denmark
+France,rmnch,22.27,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,RMNCH,rmnch,France
+Germany,rmnch,87.51,"",RMNCH,rmnch,Germany
+Italy,rmnch,75.57,"",RMNCH,rmnch,Italy
+Netherlands,rmnch,100,"",RMNCH,rmnch,the Netherlands
+Norway,rmnch,100,"",RMNCH,rmnch,Norway
+Portugal,rmnch,99.25,"",RMNCH,rmnch,Portugal
+Sweden,rmnch,95.39,"",RMNCH,rmnch,Sweden
+Switzerland,rmnch,100,"",RMNCH,rmnch,Switzerland
+United Kingdom,rmnch,82.89,"",RMNCH,rmnch,the United Kingdom
+Finland,rmnch,87.03,"",RMNCH,rmnch,Finland
+Iceland,rmnch,99.65,"",RMNCH,rmnch,Iceland
+Ireland,rmnch,92.03,"",RMNCH,rmnch,Ireland
+Luxembourg,rmnch,100,"",RMNCH,rmnch,Luxembourg
+Greece,rmnch,100,"",RMNCH,rmnch,Greece
+Spain,rmnch,99.48,"",RMNCH,rmnch,Spain
+Slovenia,rmnch,70.93,"",RMNCH,rmnch,Slovenia
+Czechia,rmnch,97.89,"",RMNCH,rmnch,Czechia
+Slovak Republic,rmnch,99.71,"",RMNCH,rmnch,the Slovak Republic
+Hungary,rmnch,57.49,"",RMNCH,rmnch,Hungary
+Poland,rmnch,66.28,"",RMNCH,rmnch,Poland
+Romania,rmnch,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,RMNCH,rmnch,Romania
+Estonia,rmnch,99.75,"",RMNCH,rmnch,Estonia
+Latvia,rmnch,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,RMNCH,rmnch,Latvia
+Lithuania,rmnch,70.83,"",RMNCH,rmnch,Lithuania
+Canada,rmnch,96.54,"",RMNCH,rmnch,Canada
+United States,rmnch,100,"",RMNCH,rmnch,the United States
+Japan,rmnch,95.96,"",RMNCH,rmnch,Japan
+Korea,rmnch,98.86,"",RMNCH,rmnch,Korea
+Australia,rmnch,100,"",RMNCH,rmnch,Australia
+New Zealand,rmnch,100,"",RMNCH,rmnch,New Zealand
+EU Institutions,rmnch,100,"",RMNCH,rmnch,the EU Institutions
+Austria,drr,99.97,"",DRR,drr,Austria
+Belgium,drr,11.94,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Belgium
+Denmark,drr,96.01,"",DRR,drr,Denmark
+France,drr,54.93,"",DRR,drr,France
+Germany,drr,43.08,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Germany
+Italy,drr,78.15,"",DRR,drr,Italy
+Netherlands,drr,100,"",DRR,drr,the Netherlands
+Norway,drr,100,"",DRR,drr,Norway
+Portugal,drr,99.29,"",DRR,drr,Portugal
+Sweden,drr,94.93,"",DRR,drr,Sweden
+Switzerland,drr,100,"",DRR,drr,Switzerland
+United Kingdom,drr,68.57,"",DRR,drr,the United Kingdom
+Finland,drr,84.63,"",DRR,drr,Finland
+Iceland,drr,100,"",DRR,drr,Iceland
+Ireland,drr,92.1,"",DRR,drr,Ireland
+Luxembourg,drr,2.47,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Luxembourg
+Greece,drr,100,"",DRR,drr,Greece
+Spain,drr,99.48,"",DRR,drr,Spain
+Slovenia,drr,99.3,"",DRR,drr,Slovenia
+Czechia,drr,99.81,"",DRR,drr,Czechia
+Slovak Republic,drr,99.97,"",DRR,drr,the Slovak Republic
+Hungary,drr,20.6,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Hungary
+Poland,drr,86.97,"",DRR,drr,Poland
+Romania,drr,48.78,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Romania
+Estonia,drr,85.77,"",DRR,drr,Estonia
+Latvia,drr,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,DRR,drr,Latvia
+Lithuania,drr,74.11,"",DRR,drr,Lithuania
+Canada,drr,95.98,"",DRR,drr,Canada
+United States,drr,100,"",DRR,drr,the United States
+Japan,drr,89.84,"",DRR,drr,Japan
+Korea,drr,98.92,"",DRR,drr,Korea
+Australia,drr,100,"",DRR,drr,Australia
+New Zealand,drr,100,"",DRR,drr,New Zealand
+EU Institutions,drr,100,"",DRR,drr,the EU Institutions
+Austria,nutrition,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Austria
+Belgium,nutrition,43.1,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Belgium
+Denmark,nutrition,88.12,"",Nutrition,nutrition,Denmark
+France,nutrition,24.1,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,France
+Germany,nutrition,0.42,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Germany
+Italy,nutrition,78.64,"",Nutrition,nutrition,Italy
+Netherlands,nutrition,0.08,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,the Netherlands
+Norway,nutrition,0.12,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Norway
+Portugal,nutrition,40.13,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Portugal
+Sweden,nutrition,0.11,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Sweden
+Switzerland,nutrition,100,"",Nutrition,nutrition,Switzerland
+United Kingdom,nutrition,76.63,"",Nutrition,nutrition,the United Kingdom
+Finland,nutrition,84.63,"",Nutrition,nutrition,Finland
+Iceland,nutrition,100,"",Nutrition,nutrition,Iceland
+Ireland,nutrition,93.35,"",Nutrition,nutrition,Ireland
+Luxembourg,nutrition,0.83,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Luxembourg
+Greece,nutrition,100,"",Nutrition,nutrition,Greece
+Spain,nutrition,91.04,"",Nutrition,nutrition,Spain
+Slovenia,nutrition,28.26,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Slovenia
+Czechia,nutrition,99.96,"",Nutrition,nutrition,Czechia
+Slovak Republic,nutrition,84.89,"",Nutrition,nutrition,the Slovak Republic
+Hungary,nutrition,57.49,"",Nutrition,nutrition,Hungary
+Poland,nutrition,86.89,"",Nutrition,nutrition,Poland
+Romania,nutrition,48.74,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Romania
+Estonia,nutrition,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Estonia
+Latvia,nutrition,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Nutrition,nutrition,Latvia
+Lithuania,nutrition,66.44,"",Nutrition,nutrition,Lithuania
+Canada,nutrition,95.92,"",Nutrition,nutrition,Canada
+United States,nutrition,100,"",Nutrition,nutrition,the United States
+Japan,nutrition,96.02,"",Nutrition,nutrition,Japan
+Korea,nutrition,80.89,"",Nutrition,nutrition,Korea
+Australia,nutrition,100,"",Nutrition,nutrition,Australia
+New Zealand,nutrition,67.37,"",Nutrition,nutrition,New Zealand
+EU Institutions,nutrition,100,"",Nutrition,nutrition,the EU Institutions
+Austria,disability,99.74,"",Disability,disability,Austria
+Belgium,disability,42.1,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Belgium
+Denmark,disability,88.98,"",Disability,disability,Denmark
+France,disability,20.09,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,France
+Germany,disability,24.3,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Germany
+Italy,disability,78.08,"",Disability,disability,Italy
+Netherlands,disability,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,the Netherlands
+Norway,disability,100,"",Disability,disability,Norway
+Portugal,disability,39.45,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Portugal
+Sweden,disability,94.11,"",Disability,disability,Sweden
+Switzerland,disability,100,"",Disability,disability,Switzerland
+United Kingdom,disability,87.54,"",Disability,disability,the United Kingdom
+Finland,disability,84.63,"",Disability,disability,Finland
+Iceland,disability,99.65,"",Disability,disability,Iceland
+Ireland,disability,92.99,"",Disability,disability,Ireland
+Luxembourg,disability,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Luxembourg
+Greece,disability,100,"",Disability,disability,Greece
+Spain,disability,99.48,"",Disability,disability,Spain
+Slovenia,disability,29.47,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Slovenia
+Czechia,disability,99.96,"",Disability,disability,Czechia
+Slovak Republic,disability,84.89,"",Disability,disability,the Slovak Republic
+Hungary,disability,2.34,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Hungary
+Poland,disability,82.86,"",Disability,disability,Poland
+Romania,disability,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Romania
+Estonia,disability,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Estonia
+Latvia,disability,20.18,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,Latvia
+Lithuania,disability,65.59,"",Disability,disability,Lithuania
+Canada,disability,95.5,"",Disability,disability,Canada
+United States,disability,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Disability,disability,the United States
+Japan,disability,95.94,"",Disability,disability,Japan
+Korea,disability,91.61,"",Disability,disability,Korea
+Australia,disability,100,"",Disability,disability,Australia
+New Zealand,disability,100,"",Disability,disability,New Zealand
+EU Institutions,disability,100,"",Disability,disability,the EU Institutions
+Austria,biodiversity,99.97,"",Biodiversity,biodiversity,Austria
+Belgium,biodiversity,69.27,"",Biodiversity,biodiversity,Belgium
+Denmark,biodiversity,89.31,"",Biodiversity,biodiversity,Denmark
+France,biodiversity,89.87,"",Biodiversity,biodiversity,France
+Germany,biodiversity,92.57,"",Biodiversity,biodiversity,Germany
+Italy,biodiversity,82.65,"",Biodiversity,biodiversity,Italy
+Netherlands,biodiversity,100,"",Biodiversity,biodiversity,the Netherlands
+Norway,biodiversity,100,"",Biodiversity,biodiversity,Norway
+Portugal,biodiversity,99.31,"",Biodiversity,biodiversity,Portugal
+Sweden,biodiversity,95.27,"",Biodiversity,biodiversity,Sweden
+Switzerland,biodiversity,100,"",Biodiversity,biodiversity,Switzerland
+United Kingdom,biodiversity,90.32,"",Biodiversity,biodiversity,the United Kingdom
+Finland,biodiversity,99.17,"",Biodiversity,biodiversity,Finland
+Iceland,biodiversity,100,"",Biodiversity,biodiversity,Iceland
+Ireland,biodiversity,91.83,"",Biodiversity,biodiversity,Ireland
+Luxembourg,biodiversity,100,"",Biodiversity,biodiversity,Luxembourg
+Greece,biodiversity,100,"",Biodiversity,biodiversity,Greece
+Spain,biodiversity,99.47,"",Biodiversity,biodiversity,Spain
+Slovenia,biodiversity,86.93,"",Biodiversity,biodiversity,Slovenia
+Czechia,biodiversity,98.97,"",Biodiversity,biodiversity,Czechia
+Slovak Republic,biodiversity,99.97,"",Biodiversity,biodiversity,the Slovak Republic
+Hungary,biodiversity,20.9,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Biodiversity,biodiversity,Hungary
+Poland,biodiversity,66.13,"",Biodiversity,biodiversity,Poland
+Romania,biodiversity,48.79,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Biodiversity,biodiversity,Romania
+Estonia,biodiversity,39.05,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Biodiversity,biodiversity,Estonia
+Latvia,biodiversity,100,"",Biodiversity,biodiversity,Latvia
+Lithuania,biodiversity,59.39,"",Biodiversity,biodiversity,Lithuania
+Canada,biodiversity,99.71,"",Biodiversity,biodiversity,Canada
+United States,biodiversity,100,"",Biodiversity,biodiversity,the United States
+Japan,biodiversity,92.57,"",Biodiversity,biodiversity,Japan
+Korea,biodiversity,98.86,"",Biodiversity,biodiversity,Korea
+Australia,biodiversity,100,"",Biodiversity,biodiversity,Australia
+New Zealand,biodiversity,100,"",Biodiversity,biodiversity,New Zealand
+EU Institutions,biodiversity,100,"",Biodiversity,biodiversity,the EU Institutions
+Austria,climate_adaptation,99.97,"",Climate adaptation,climate_adaptation,Austria
+Belgium,climate_adaptation,72.15,"",Climate adaptation,climate_adaptation,Belgium
+Denmark,climate_adaptation,88.95,"",Climate adaptation,climate_adaptation,Denmark
+France,climate_adaptation,90.89,"",Climate adaptation,climate_adaptation,France
+Germany,climate_adaptation,93.55,"",Climate adaptation,climate_adaptation,Germany
+Italy,climate_adaptation,82,"",Climate adaptation,climate_adaptation,Italy
+Netherlands,climate_adaptation,100,"",Climate adaptation,climate_adaptation,the Netherlands
+Norway,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Norway
+Portugal,climate_adaptation,99.31,"",Climate adaptation,climate_adaptation,Portugal
+Sweden,climate_adaptation,95.45,"",Climate adaptation,climate_adaptation,Sweden
+Switzerland,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Switzerland
+United Kingdom,climate_adaptation,93.39,"",Climate adaptation,climate_adaptation,the United Kingdom
+Finland,climate_adaptation,99.17,"",Climate adaptation,climate_adaptation,Finland
+Iceland,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Iceland
+Ireland,climate_adaptation,92.74,"",Climate adaptation,climate_adaptation,Ireland
+Luxembourg,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Luxembourg
+Greece,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Greece
+Spain,climate_adaptation,99.47,"",Climate adaptation,climate_adaptation,Spain
+Slovenia,climate_adaptation,87.06,"",Climate adaptation,climate_adaptation,Slovenia
+Czechia,climate_adaptation,98.98,"",Climate adaptation,climate_adaptation,Czechia
+Slovak Republic,climate_adaptation,99.97,"",Climate adaptation,climate_adaptation,the Slovak Republic
+Hungary,climate_adaptation,20.92,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate adaptation,climate_adaptation,Hungary
+Poland,climate_adaptation,67.07,"",Climate adaptation,climate_adaptation,Poland
+Romania,climate_adaptation,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate adaptation,climate_adaptation,Romania
+Estonia,climate_adaptation,39.05,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate adaptation,climate_adaptation,Estonia
+Latvia,climate_adaptation,99.87,"",Climate adaptation,climate_adaptation,Latvia
+Lithuania,climate_adaptation,55.99,"",Climate adaptation,climate_adaptation,Lithuania
+Canada,climate_adaptation,99.96,"",Climate adaptation,climate_adaptation,Canada
+United States,climate_adaptation,100,"",Climate adaptation,climate_adaptation,the United States
+Japan,climate_adaptation,98.02,"",Climate adaptation,climate_adaptation,Japan
+Korea,climate_adaptation,99.17,"",Climate adaptation,climate_adaptation,Korea
+Australia,climate_adaptation,100,"",Climate adaptation,climate_adaptation,Australia
+New Zealand,climate_adaptation,100,"",Climate adaptation,climate_adaptation,New Zealand
+EU Institutions,climate_adaptation,100,"",Climate adaptation,climate_adaptation,the EU Institutions
+Austria,climate_mitigation,99.97,"",Climate mitigation,climate_mitigation,Austria
+Belgium,climate_mitigation,71.37,"",Climate mitigation,climate_mitigation,Belgium
+Denmark,climate_mitigation,89.33,"",Climate mitigation,climate_mitigation,Denmark
+France,climate_mitigation,90.74,"",Climate mitigation,climate_mitigation,France
+Germany,climate_mitigation,93.01,"",Climate mitigation,climate_mitigation,Germany
+Italy,climate_mitigation,83.75,"",Climate mitigation,climate_mitigation,Italy
+Netherlands,climate_mitigation,100,"",Climate mitigation,climate_mitigation,the Netherlands
+Norway,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Norway
+Portugal,climate_mitigation,99.31,"",Climate mitigation,climate_mitigation,Portugal
+Sweden,climate_mitigation,95.45,"",Climate mitigation,climate_mitigation,Sweden
+Switzerland,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Switzerland
+United Kingdom,climate_mitigation,93.39,"",Climate mitigation,climate_mitigation,the United Kingdom
+Finland,climate_mitigation,99.17,"",Climate mitigation,climate_mitigation,Finland
+Iceland,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Iceland
+Ireland,climate_mitigation,92.35,"",Climate mitigation,climate_mitigation,Ireland
+Luxembourg,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Luxembourg
+Greece,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Greece
+Spain,climate_mitigation,99.47,"",Climate mitigation,climate_mitigation,Spain
+Slovenia,climate_mitigation,87.06,"",Climate mitigation,climate_mitigation,Slovenia
+Czechia,climate_mitigation,98.98,"",Climate mitigation,climate_mitigation,Czechia
+Slovak Republic,climate_mitigation,99.97,"",Climate mitigation,climate_mitigation,the Slovak Republic
+Hungary,climate_mitigation,20.24,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate mitigation,climate_mitigation,Hungary
+Poland,climate_mitigation,67.06,"",Climate mitigation,climate_mitigation,Poland
+Romania,climate_mitigation,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate mitigation,climate_mitigation,Romania
+Estonia,climate_mitigation,39.05,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Climate mitigation,climate_mitigation,Estonia
+Latvia,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Latvia
+Lithuania,climate_mitigation,59.36,"",Climate mitigation,climate_mitigation,Lithuania
+Canada,climate_mitigation,99.91,"",Climate mitigation,climate_mitigation,Canada
+United States,climate_mitigation,100,"",Climate mitigation,climate_mitigation,the United States
+Japan,climate_mitigation,97.97,"",Climate mitigation,climate_mitigation,Japan
+Korea,climate_mitigation,99.18,"",Climate mitigation,climate_mitigation,Korea
+Australia,climate_mitigation,100,"",Climate mitigation,climate_mitigation,Australia
+New Zealand,climate_mitigation,100,"",Climate mitigation,climate_mitigation,New Zealand
+EU Institutions,climate_mitigation,100,"",Climate mitigation,climate_mitigation,the EU Institutions
+Austria,desertification,99.97,"",Desertification,desertification,Austria
+Belgium,desertification,69.65,"",Desertification,desertification,Belgium
+Denmark,desertification,89.84,"",Desertification,desertification,Denmark
+France,desertification,43.17,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Desertification,desertification,France
+Germany,desertification,91.58,"",Desertification,desertification,Germany
+Italy,desertification,82.33,"",Desertification,desertification,Italy
+Netherlands,desertification,100,"",Desertification,desertification,the Netherlands
+Norway,desertification,100,"",Desertification,desertification,Norway
+Portugal,desertification,99.31,"",Desertification,desertification,Portugal
+Sweden,desertification,95.27,"",Desertification,desertification,Sweden
+Switzerland,desertification,100,"",Desertification,desertification,Switzerland
+United Kingdom,desertification,90.13,"",Desertification,desertification,the United Kingdom
+Finland,desertification,99.17,"",Desertification,desertification,Finland
+Iceland,desertification,100,"",Desertification,desertification,Iceland
+Ireland,desertification,91.53,"",Desertification,desertification,Ireland
+Luxembourg,desertification,100,"",Desertification,desertification,Luxembourg
+Greece,desertification,100,"",Desertification,desertification,Greece
+Spain,desertification,99.46,"",Desertification,desertification,Spain
+Slovenia,desertification,70.85,"",Desertification,desertification,Slovenia
+Czechia,desertification,98.98,"",Desertification,desertification,Czechia
+Slovak Republic,desertification,99.97,"",Desertification,desertification,the Slovak Republic
+Hungary,desertification,20.91,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Desertification,desertification,Hungary
+Poland,desertification,66.11,"",Desertification,desertification,Poland
+Romania,desertification,48.72,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Desertification,desertification,Romania
+Estonia,desertification,39.04,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Desertification,desertification,Estonia
+Latvia,desertification,100,"",Desertification,desertification,Latvia
+Lithuania,desertification,59.37,"",Desertification,desertification,Lithuania
+Canada,desertification,99.7,"",Desertification,desertification,Canada
+United States,desertification,0,Data are not shown for this donor as the coverage is below the publication threshold in 2023-24.,Desertification,desertification,the United States
+Japan,desertification,95.86,"",Desertification,desertification,Japan
+Korea,desertification,98.85,"",Desertification,desertification,Korea
+Australia,desertification,100,"",Desertification,desertification,Australia
+New Zealand,desertification,100,"",Desertification,desertification,New Zealand
+EU Institutions,desertification,100,"",Desertification,desertification,the EU Institutions
