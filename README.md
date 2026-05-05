@@ -29,7 +29,12 @@ remotes::install_github("dreamRs/capture")
 The app expects the following CSV files in `www/data/`:
 - `table1_markers.csv`
 - `table2_markers.csv`
-- *(list all your files)*
+- `chart1_markers.csv`
+- `chart2_markers.csv`
+- `chart3_markers.csv`
+- `policy_markers_names.csv`
+- `summary_tables_markers.csv`
+- `table_cov.csv`
 
 ## Contributing
 
